@@ -1,0 +1,11 @@
+C:\!mystuff\testrepository\testrepository\bin\Debug\netcoreapp2.1\testrepository.deps.json
+C:\!mystuff\testrepository\testrepository\bin\Debug\netcoreapp2.1\testrepository.runtimeconfig.json
+C:\!mystuff\testrepository\testrepository\bin\Debug\netcoreapp2.1\testrepository.runtimeconfig.dev.json
+c:\!mystuff\testrepository\testrepository\bin\Debug\netcoreapp2.1\testrepository.dll
+c:\!mystuff\testrepository\testrepository\bin\Debug\netcoreapp2.1\testrepository.pdb
+c:\!mystuff\testrepository\testrepository\obj\Debug\netcoreapp2.1\testrepository.csprojAssemblyReference.cache
+c:\!mystuff\testrepository\testrepository\obj\Debug\netcoreapp2.1\testrepository.csproj.CoreCompileInputs.cache
+c:\!mystuff\testrepository\testrepository\obj\Debug\netcoreapp2.1\testrepository.AssemblyInfoInputs.cache
+c:\!mystuff\testrepository\testrepository\obj\Debug\netcoreapp2.1\testrepository.AssemblyInfo.cs
+c:\!mystuff\testrepository\testrepository\obj\Debug\netcoreapp2.1\testrepository.dll
+c:\!mystuff\testrepository\testrepository\obj\Debug\netcoreapp2.1\testrepository.pdb
